@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-query",
   "packageId": "query",
   "displayName": "Query",
+  "packageCount": 1,
   "group": "Core Data And Query",
   "maturity": "Baseline",
   "description": "Canonical TanStack Query wrapper with unified keys and optimistic helpers.",

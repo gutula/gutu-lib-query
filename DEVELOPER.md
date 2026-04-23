@@ -35,6 +35,7 @@ Provides typed query helpers and shared request/response patterns for packages t
 | Package ID | `query` |
 | Display Name | Query |
 | Import Name | `@platform/query` |
+| Canonical Namespace Target | `@gutu/query` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides typed query helpers and shared request/response patterns for packages t
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/query` |
 
 ### Dependency interpretation
 
